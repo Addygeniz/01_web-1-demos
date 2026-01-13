@@ -10,13 +10,13 @@
 
 ## HTML Demo Task
 
-- create a first level heading
-- create a second level heading
-- create some paragraph tags with placeholder content
+- X create a first level heading
+- X create a second level heading
+- X create some paragraph tags with placeholder content
 
 ## Git Demo Tasks
-- intitialize a repo using the gui
-- add files to a commit before writing html
+- X intitialize a repo using the gui
+- X add files to a commit before writing html
 - update the repo with a commit after editing files
 - push the code to github
-- share with students
+- X share with students
